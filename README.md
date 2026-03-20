@@ -107,8 +107,11 @@ A `session_info.txt` file is written to `results/data/` each time the script run
 
 ## Citation
 
-If you use this code, please cite the associated manuscript (citation to be added upon publication).
-
+Gaulton TG, Victor M, Alcala G, De Santis Santiago RR, Rodriguez Sendic F, Xin Y, 
+Spina S, Mietto C, Berra L, Cereda M. The impact of metabolic syndrome on regional 
+ventilation and perfusion in ARDS: an observational cohort study using electrical 
+impedance tomography. *Intensive Care Med Exp.* 2026;14:34. 
+https://doi.org/10.1186/s40635-026-00883-8
 ---
 
 ## License
