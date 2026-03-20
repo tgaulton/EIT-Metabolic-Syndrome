@@ -39,12 +39,12 @@ EIT-Metabolic-Syndrome/
 
 ## Data Availability
 
-Patient-level data are not included in this repository. The analysis requires two Excel files placed in the `data/` directory:
+Patient-level data are not included in this repository. Deidentified datasets 
+and EIT imaging are available upon reasonable request to the corresponding 
+author, subject to data use agreement and evaluation by the Respiratory Care 
+and Lung Rescue Directors at Massachusetts General Hospital.
 
-- `data/Phenotypes_distributions_demo.xlsx` — demographic and clinical variables
-- `data/Phenotypes_distributions_vq.xlsx` — regional EIT ventilation-perfusion data
-
-The datasets can be made available upon reasonable request to the corresponding author, subject to data use agreement and IRB requirements.
+Analysis code is publicly available in this repository.
 
 ---
 
