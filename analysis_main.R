@@ -4,7 +4,7 @@
 #
 # Author: T. Gaulton, MD MSc
 # Institution: Massachusetts General Hospital / Harvard Medical School
-# Date: November 30, 2024
+# Date: November 30, 2025
 #
 # Description:
 #   Analysis of electrical impedance tomography (EIT) data comparing regional
